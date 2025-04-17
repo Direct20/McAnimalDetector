@@ -2,7 +2,7 @@
 ---
 #### Descriptions
 基于YOLOv11的Minecraft动物检测系统。
-[系统主界面](image.png)
+![系统主界面](image.png)
 #### Installation
 需要python3.8，依赖参考requirements.txt。
 #### Run

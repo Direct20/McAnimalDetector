@@ -1,0 +1,28 @@
+# Train/val/test sets as 1) dir: path/to/imgs, 2) file: path/to/imgs.txt, or 3) list: [path/to/imgs1, path/to/imgs2, ..]
+path: E:/Assignment/数字图像处理课程设计/ultralytics-main/datasets/mob.v4i.yolov11 # dataset root dir
+train: train/images # train images (relative to 'path')
+val: valid/images # val images (relative to 'path')
+test: test/images 
+
+# Classes
+names:
+  0: Creeper
+  1: Enderman
+  2: Fox
+  3: Mooshroom
+  4: Ocelot
+  5: Panda
+  6: Polar Bear
+  7: Skeleton
+  8: Slime
+  9: Spider
+  10: Witch
+  11: Wither Skeleton
+  12: Wolf
+  13: Zombie
+  14: Zombified Piglin
+  15: Bee
+  16: Chicken
+  17: Cow
+  18: Iron Golem
+  19: Pig
